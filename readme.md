@@ -1,7 +1,7 @@
 ```markdown
 # 🧪 Conduit QA Automation Suite (Playwright JS)
 
-This repository contains an industry-grade QA automation test suite for [Conduit](https://conduit.bondaracademy.com/), a blogging platform. It uses **Playwright with JavaScript**, built with clean structure, environment-specific configurations, reusable page objects, and best practices to reflect 10+ years of real-world experience in test automation.
+This repository contains an industry-grade QA automation test suite for [Conduit](https://conduit.bondaracademy.com/), a blogging platform. It uses **Playwright with JavaScript**, built with clean structure, environment-specific configurations, reusable page objects, and best practices to reflect years of real-world experience in test automation.
 
 ```
 ---
