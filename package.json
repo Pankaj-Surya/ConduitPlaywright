@@ -1,0 +1,23 @@
+{
+  "name": "conduit-playwright",
+  "version": "1.0.0",
+  "description": "Playwright tests for Conduit platform using JavaScript",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1"
+  },
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
